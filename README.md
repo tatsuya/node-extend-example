@@ -1,0 +1,1 @@
+Example of extending objects in Node.js.

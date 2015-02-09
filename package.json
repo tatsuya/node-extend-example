@@ -1,0 +1,8 @@
+{
+  "name": "node-extend-example",
+  "version": "0.0.1",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>"
+}
